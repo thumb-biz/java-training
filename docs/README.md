@@ -2,7 +2,7 @@
 このプロジェクトは、現場の観点で、技術者育成し、Oracle認定Javaプログラマ向けの勉強サイトです。
 
 # Oracle certified Java Programmer Gold SE 8
-## [Java クラスの設計]
+## [Java クラスの設計](ClassDesign)
 
 1. カプセル化を実装する
 1. アクセス修飾子やコンポジションを含む継承を実装する
